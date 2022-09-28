@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='cv'>FPGA developer</a> | Dec-30-1990
+subtitle: <a href='cv'>Python developer</a> | Dec-30-1990
 
 profile:
   align: right
